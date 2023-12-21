@@ -99,17 +99,19 @@ nav ul li a:hover::after{
 }
 
 .about-col-1{
-    flex-basis: 35%;    /*width of col*/
+    flex-basis: 0%;    /*width of col*/
 }
 
+/*
 .about-col-1 img{
     max-width: 100%;
     height: auto;
     border-radius: 15 px;
 }
+*/
 
 .about-col-2{
-    flex-basis: 60%;    /*width of col*/
+    flex-basis: 100%;    /*width of col*/
 }
 
 .about-col-2 a{
